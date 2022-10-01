@@ -4,4 +4,11 @@ Crops face multiple threats (e.g., climate change, soil degradation) at a time w
 
 Our results show that the choice of the prediction model is the most important, as highly predictive models tend to be highly consistent, independently of the feature selection approach. Conversely, the performance of more poorly predictive methods tends to be highly variable. Importantly, of all models tested, ML tree-based methods, particularly Random Forests, show the best performance, predicting wheat yield. Thus, we believe our study will be of interest for readers of Crop Science, as it will help guide both scientists and stakeholders in applying ML methods to Genomic Prediction problems.
 
+Programs are available at https://figshare.com/s/8b0b955a7611772f3325, the repository contains the programs for predicting wheat grain yield trait using machine learning, deep learning, penalized and Bayesian methods.
+
+Share and cite: Sirsat, M.S.; Oblessuc, P.R.; Ramiro, R.S. Genomic Prediction of Wheat Grain Yield Using Machine Learning. Agriculture 2022, 12, 1406. https://doi.org/10.3390/agriculture12091406
+
+
+
+
 
